@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: 28Pins.GBR   3/5/2023  8:04:44 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                L1                                      
+.GBL                L2                                      
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM3                Board Shape                             
+.GM5                Mechanical Drawing                      
+.GM6                Manufacturing Notes                     
+.GM7                License                                 
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
