@@ -1,1 +1,1 @@
-# Arduino-Uno-Rev3-Revision-
+# Arduino-Uno-Rev3-Revision
